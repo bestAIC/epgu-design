@@ -14,10 +14,14 @@
 		<string>HelveticaNeue</string>
 		<string>HelveticaNeue-Bold</string>
 		<string>HelveticaNeueCyr-Roman</string>
+		<string>HelveticaNeueCyr-Bold</string>
 		<string>EtelkaThin</string>
+		<string>Helvetica</string>
+		<string>HelveticaNeue-Medium</string>
+		<string>HelveticaNeue-Light</string>
 	</array>
 	<key>length</key>
-	<integer>1461140</integer>
+	<integer>3941511</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
