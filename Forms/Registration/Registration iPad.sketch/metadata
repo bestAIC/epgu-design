@@ -5,22 +5,21 @@
 	<key>app</key>
 	<string>com.bohemiancoding.sketch3</string>
 	<key>build</key>
-	<integer>8054</integer>
+	<integer>7891</integer>
 	<key>commit</key>
-	<string>b2079fe10151ad0eef6cc553b7369ec78d67b9b5</string>
+	<string>debc570766a4cc5a2e31258967910f7e5776f485</string>
 	<key>fonts</key>
 	<array>
-		<string>EtelkaThin</string>
-		<string>HelveticaNeue</string>
-		<string>EtelkaMedium</string>
 		<string>HelveticaNeueCyr-Roman</string>
-		<string>HelveticaNeue-Bold</string>
+		<string>EtelkaMedium</string>
 		<string>HelveticaNeue-Light</string>
-		<string>HelveticaNeueCyr-Bold</string>
+		<string>EtelkaThin</string>
+		<string>HelveticaNeue-Bold</string>
 		<string>HelveticaNeueCyr-Light</string>
+		<string>HelveticaNeue</string>
 	</array>
 	<key>length</key>
-	<integer>37538547</integer>
+	<integer>44845488</integer>
 	<key>version</key>
 	<integer>37</integer>
 </dict>
